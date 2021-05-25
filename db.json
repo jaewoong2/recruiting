@@ -22,7 +22,7 @@
           "profile": {
               "name": "Cathy stive",
               "nickName": "DogIsCute",
-              "image": "https://randomuser.me/api/portraits/thumb/women/29.jpg"
+              "image": "https://randomuser.me/api/portraits/women/75.jpg"
             }
         }
       ],
@@ -49,7 +49,7 @@
           "profile": {
               "name": "john silius",
               "nickName": "DogIsCute",
-              "image": "https://randomuser.me/api/portraits/thumb/men/25.jpg"
+              "image": "https://randomuser.me/api/portraits/men/25.jpg"
             }
         }
       ],
@@ -76,7 +76,7 @@
           "profile": {
               "name": "Robot Lego King.JR",
               "nickName": "Lego is King",
-              "image": "https://randomuser.me/api/portraits/thumb/lego/3.jpg"
+              "image": "https://randomuser.me/api/portraits/lego/3.jpg"
             }
         }
       ]
