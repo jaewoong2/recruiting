@@ -1,89 +1,20 @@
 {
   "0": [
-    { "todo": "Fake Api", "iscompleted": false },
-    { "todo": "Hello Recoil", "iscompleted": true },
-    { "todo": "Algorithm study", "iscompleted": false },
-    { "todo": "coffee", "iscompleted": true }
-  ],
-  "1": [
-    {
-      "id": 1,
-      "posts": [
-        {
-          "id": "1",
-          "title": "hello",
-          "description": "Hello Fake Data!"
-        },
-        {
-          "id": "2",
-          "title": "Bye",
-          "description": "Bye Fake Data!"
-        },
-        {
-          "id": "3",
-          "title": "My Fake",
-          "description": "Api!"
-        }
-      ],
-      "profile": {
-        "name": "Cathy stive",
-        "nickName": "DogIsCute",
-        "image": "https://randomuser.me/api/portraits/women/75.jpg"
-      }
-    }
-  ],
-  "2": [
-    {
-      "id": 2,
-      "posts": [
-        {
-          "id": 1,
-          "title": "Number 2`s first Post",
-          "description": "Hello Fake Data!"
-        },
-        {
-          "id": 2,
-          "title": "Number 2`s second Post",
-          "description": "Bye Fake Data!"
-        },
-        {
-          "id": 3,
-          "title": "Number 2`s last Post",
-          "description": "Api!"
-        }
-      ],
-      "profile": {
-        "name": "john silius",
-        "nickName": "DogIsCute",
-        "image": "https://randomuser.me/api/portraits/men/25.jpg"
-      }
-    }
-  ],
-  "3": [
-    {
-      "id": 3,
-      "posts": [
-        {
-          "id": 1,
-          "title": "Number 3`s first Post",
-          "description": "Hello Fake Data!"
-        },
-        {
-          "id": 2,
-          "title": "Number 3`s second Post",
-          "description": "Bye Fake Data!"
-        },
-        {
-          "id": 3,
-          "title": "Number 3`s last Post",
-          "description": "Api!"
-        }
-      ],
-      "profile": {
-        "name": "Robot Lego King.JR",
-        "nickName": "Lego is King",
-        "image": "https://randomuser.me/api/portraits/lego/3.jpg"
-      }
+    { 
+      "value": "TODO 1",
+      "state": "done"
+    },
+    { 
+      "value": "TODO 2",
+      "state": "none"
+    },
+    { 
+      "value": "TODO 3",
+      "state": "ready"
+    },
+    { 
+      "value": "TODO 4",
+      "state": "ongoing"
     }
   ]
 }
